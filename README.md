@@ -3,24 +3,27 @@
 💻 Interested in AI, Full Stack Development & Open Source
 🚀 Building AI-powered projects using Python, APIs, JavaScript & GenAI tools
 # 🛠 Tech Stack
-##Languages:
+
+## Languages
 - Python
 - Java
 - C++
 - SQL
-##AI & Data:
--OpenAI API
--Gemini
--Hugging Face
--LangChain (Beginner)
--Pandas
--NumPy
-##Development:
--React
--HTML/CSS
--Git & GitHub
--MySQL
--Jupyter Notebook
+
+## AI & Data
+- OpenAI API
+- Gemini
+- Hugging Face
+- LangChain (Beginner)
+- Pandas
+- NumPy
+
+## Development
+- React
+- HTML/CSS
+- Git & GitHub
+- MySQL
+- Jupyter Notebook
 
 # 🌱 Currently Exploring
 - GenAI & LLM Applications
