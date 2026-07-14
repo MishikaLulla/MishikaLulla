@@ -2,7 +2,7 @@
 
 Building AI-powered applications and solving real-world problems using modern technologies.
 # 🛠 Tech Stack
-## 🛠️ Tech Stack
+
 
 ### 💻 Programming Languages
 
